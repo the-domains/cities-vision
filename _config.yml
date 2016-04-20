@@ -2,6 +2,7 @@ name: Cities Vision
 favicon: null
 layout_spectrum: 0.508492091903463
 typography_spectrum: 0.020141369430348277
+title: Cities Vision
 cta:
   domain: null
   bucket: null
